@@ -41,7 +41,7 @@ import config.java.common.CatEmailNotificationUtil;
 import config.java.schedule.util.CATFaltFileUtil;
 import ariba.common.core.Address ;
 import ariba.util.formatter.BigDecimalFormatter;
-
+// JITEN
 public class CATCAPSInvoiceFlatFilePush extends ScheduledTask {
 
 	private String classname = "CATCAPSInvoiceFlatFilePush";
